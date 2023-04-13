@@ -10,8 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Mobile-first workflow
 
-# Author
-- Anurag G
+#### Author
+Hi, I'm Anurag G,Computer Science Student at JSS S&T University
 - LinkedIn - [Anurag G](https://www.linkedin.com/in/anurag-g-a08994229/)
 - GitHub - [@anuraggopalakrishna](https://github.com/anuraggopalakrishna)
 
