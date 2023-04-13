@@ -3,20 +3,26 @@ html
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
     padding-bottom: 30px;
+    text-align: center;
 }
 
 img
 {   
 
-    margin: 15px;
+    margin: auto;
     display: block;
     border-radius: 3%;
-    
-    height: auto;
+    max-width: fit-content;
+    width: 65%;
+
+
 
 }
 
-
+h2
+{
+    color: hsl(218, 44%, 22%);
+}
 
 .card
 {
@@ -27,11 +33,12 @@ img
     margin-right: -50%;
     transform: translate(-50%, -50%);
 
-    padding: 8px;
+    padding: 15px;
     border-radius: 3%;
     background-color: white;
     text-align: center;
-    width: fit-content;
+    max-width: fit-content;
+    width: 25%;
 }
  
     
@@ -41,6 +48,7 @@ img
         text-align: center; 
         position: fixed;
         bottom: 0;
+
     }
     .attribution a {
          color: hsl(228, 45%, 44%); 
